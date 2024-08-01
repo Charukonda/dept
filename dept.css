@@ -1,0 +1,54 @@
+.main{
+    background-color: aliceblue;
+    padding: 20px;
+    background-image: url('download.jpeg');
+    background-repeat: no-repeat;
+    background-image: width;
+    background-size: cover;
+    background-position: center;
+}
+.objects{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+    margin-left: 40%;
+}
+.logo{
+    border-radius: 100%;
+    height: 40%;
+    width: 30%;
+    
+}
+.button{
+    margin-left: 10%;
+    padding: 20px;
+}
+.pics{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+
+
+}
+
+/*c1{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 40%;
+}*/
+.heading{
+    color: darkred;
+}
+.firstimg{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.b{
+    width: 40%;
+    margin-left: 60%;
+    margin-top: 10px;
+
+}
